@@ -1,2 +1,2 @@
 # OlaMundo
-![alt text](/OlaMundo/OlaMundo.png)
+![alt text](/OlaMundo.png)
